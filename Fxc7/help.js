@@ -15,12 +15,12 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
 
-╭──────「 *REGULATION ${name}* 」
+╭────── 「* PERATURAN $ {sinullbott} *
 ┴
 ┣⊱  \`\`\`NAMA USER:\`\`\` *${pushname2}*
-┣⊱  \`\`\`VERIVICATION:\`\`\` ✅
-┣⊱  \`\`\`LIMIT:\`\`\` *${limitt} perhari*
-┣⊱  \`\`\`AKTIF:\`\`\` ${kyun(uptime)}
+┣⊱ \ `\` \ `VERIVIKASI: \` \ `\` ✅
+┣⊱ \ ` \ ` \ `   BATAS : \ ` \ ` \ ` * $ {limitt} perhari *
+┣⊱ \ ` \ ` \ `  AKTIF : \ ` \ ` \ ` $ {kyun (waktu aktif)}
 ┣⊱  \`\`\`JAM:\`\`\` *${jam} WIB*
 ┣⊱  \`\`\`TANGGAL:\`\`\` *${tanggal}*
 ┣⊱  \`\`\`VERSION:\`\`\` *6.5.0*
